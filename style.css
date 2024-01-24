@@ -1,0 +1,28 @@
+.holder {
+    display: flex;
+    flex-direction: column;
+  }
+  .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  .item {
+    flex: 1;
+    text-align: center;
+    border: 1px solid black; 
+  }
+  .red {
+    background-color: red;
+  }
+  .blue {
+    background-color: blue;
+  }
+  .purple {
+    background-color: purple;
+  }
+  .green {
+    background-color: green;
+  }
+  .yellow {
+    background-color: yellow;
+  }
